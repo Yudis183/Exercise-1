@@ -66,5 +66,6 @@ const _date1: Date = new Date("2022/01/20");
 const _date2: Date = new Date("2022/01/22");
 const _daydiff: number = Math.abs(_date2.getDay() - _date1.getDay());
 console.log(_daydiff);
+
 //math.abs hasilnya nilai mutlak
 //math.floor hasilnya pembulatan ke bawah
